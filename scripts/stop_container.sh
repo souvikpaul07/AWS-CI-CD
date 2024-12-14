@@ -5,4 +5,4 @@ set -e
 
 #docker stop simple-node-application
 
-docker rm -f
+echo
