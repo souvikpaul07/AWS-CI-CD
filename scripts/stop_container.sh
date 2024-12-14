@@ -1,3 +1,5 @@
+#!bin/bash
+set -e
 
 # Stop and remove the Docker container
 
