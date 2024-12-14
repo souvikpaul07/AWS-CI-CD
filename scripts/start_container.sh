@@ -1,3 +1,6 @@
+#!bin/bash
+set -e
+
 # pull the docker image from the dockerhub
 docker pull s0uvik/simple-node-application
 
